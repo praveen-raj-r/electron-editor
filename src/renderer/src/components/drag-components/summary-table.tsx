@@ -262,7 +262,7 @@ function DataTable({ columns, data }) {
   )
 }
 
-function TableComp() {
+function DragSummaryTable() {
   return (
     <Card>
       <CardHeader>
@@ -274,4 +274,4 @@ function TableComp() {
     </Card>
   )
 }
-export default TableComp
+export default DragSummaryTable
